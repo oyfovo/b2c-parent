@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/b2c-content-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-content-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-content-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-search-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-search-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-search-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-seller-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-sellergoods-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-sellergoods-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b2c-sellergoods-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

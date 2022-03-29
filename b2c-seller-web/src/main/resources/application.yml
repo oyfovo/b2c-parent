@@ -1,0 +1,14 @@
+server:
+#  端口号：
+  port: 9002
+dubbo:
+  application:
+    name: b2c-seller-web
+  registry:
+    address: zookeeper://192.168.56.88:2181
+spring:
+  thymeleaf:
+    cache: false
+file:
+    server:
+      path: http://192.168.56.88/

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="b2c-content-interface" />
+      <module name="b2c-content-service" />
+      <module name="b2c-dao" />
+      <module name="b2c-manager-web" />
+      <module name="b2c-model" />
+      <module name="b2c-parent" />
+      <module name="b2c-portal-web" />
+      <module name="b2c-search-interface" />
+      <module name="b2c-seller-web" />
+      <module name="b2c-sellergoods-interface" />
+      <module name="b2c-sellergoods-service" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a197cb-6e09-4db6-a1c6-32fb752e102c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="21fJiX1dtUqjtckbAHqT5oE2nFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638257437003" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/b2c-content-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.3091954" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\b2c-parent" />
+      <recent name="D:\IDEAProject\b2c-parent\b2c-content-service\src\main\java\com.turing.b2c" />
+      <recent name="D:\IDEAProject\b2c-parent\b2c-content-service\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.turing.b2c" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.turing.b2c.search.service" />
+      <recent name="com.turing.b2c.seller.controller" />
+      <recent name="com.turing.b2c.sellergoods.service.impl" />
+      <recent name="com.turing.b2c.sellergoods.service" />
+      <recent name="com.turing.b2c.manager.web.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\b2c-parent\b2c-search-web\src\main\java\com\turing\b2c\seach\controller" />
+      <recent name="D:\IDEAProject\b2c-parent\b2c-search-web\src\main\resources\static" />
+      <recent name="D:\IDEAProject\b2c-parent\b2c-search-web\src\main\resources\templates" />
+      <recent name="D:\IDEAProject\b2c-parent" />
+      <recent name="D:\IDEAProject\b2c-parent\b2c-portal-web\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turing.b2c.search.service.impl.test" />
+      <module name="b2c-search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.b2c.search.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSearchServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="b2c-search-service" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.b2c.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.turing.b2c" />
+      <option name="MAIN_CLASS_NAME" value="com.turing.b2c.B2cSearchServiceApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Des.set.netty.runtime.available.processors=false" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSellerWebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="b2c-seller-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turing.b2c.seller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.turing.b2c.seller" />
+      <option name="MAIN_CLASS_NAME" value="com.turing.b2c.seller.B2cSellerWebApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cContentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-content-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cContentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cManagerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-manager-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cManagerWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cPortalWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-portal-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cPortalWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cSearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSellerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-seller-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.seller.B2cSellerWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2cSellergoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-sellergoods-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.turing.b2c.B2cSellergoodsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.B2cSellerWebApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.B2cSearchServiceApplicationTests" />
+      <item itemvalue="Spring Boot.B2cManagerWebApplication" />
+      <item itemvalue="Spring Boot.B2cSellergoodsServiceApplication" />
+      <item itemvalue="Spring Boot.B2cSellerWebApplication" />
+      <item itemvalue="Spring Boot.B2cContentServiceApplication" />
+      <item itemvalue="Spring Boot.B2cPortalWebApplication" />
+      <item itemvalue="Spring Boot.B2cSearchServiceApplication" />
+      <item itemvalue="Spring Boot.B2cSearchWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.B2cSearchServiceApplicationTests" />
+        <item itemvalue="JUnit.B2cSellerWebApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a197cb-6e09-4db6-a1c6-32fb752e102c" name="Default Changelist" comment="" />
+      <created>1638165409565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638165409565</updated>
+      <workItem from="1638165410872" duration="7792000" />
+      <workItem from="1638251767749" duration="5519000" />
+      <workItem from="1638326337552" duration="3314000" />
+      <workItem from="1638407230219" duration="3878000" />
+      <workItem from="1638432466038" duration="4788000" />
+      <workItem from="1638439026243" duration="7499000" />
+      <workItem from="1638493944479" duration="4767000" />
+      <workItem from="1638508163023" duration="189000" />
+      <workItem from="1638513850460" duration="694000" />
+      <workItem from="1638516751424" duration="4540000" />
+      <workItem from="1638527221635" duration="3400000" />
+      <workItem from="1638772123807" duration="4365000" />
+      <workItem from="1638782960187" duration="329000" />
+      <workItem from="1638783305194" duration="140000" />
+      <workItem from="1638857100987" duration="133000" />
+      <workItem from="1639013600801" duration="1017000" />
+      <workItem from="1639020536529" duration="18000" />
+      <workItem from="1639020601047" duration="1588000" />
+      <workItem from="1639022209462" duration="1119000" />
+      <workItem from="1639056681770" duration="2639000" />
+      <workItem from="1639098237473" duration="6519000" />
+      <workItem from="1639122112859" duration="2845000" />
+      <workItem from="1639357559824" duration="2483000" />
+      <workItem from="1639372847662" duration="5848000" />
+      <workItem from="1639452452993" duration="1123000" />
+      <workItem from="1639488352627" duration="237000" />
+      <workItem from="1639550341632" duration="1604000" />
+      <workItem from="1639553447977" duration="170000" />
+      <workItem from="1639553626825" duration="53000" />
+      <workItem from="1639553718090" duration="200000" />
+      <workItem from="1639553927431" duration="10643000" />
+      <workItem from="1639623300311" duration="2483000" />
+      <workItem from="1639625802275" duration="200000" />
+      <workItem from="1639626015711" duration="2178000" />
+      <workItem from="1639628298047" duration="133000" />
+      <workItem from="1639637589176" duration="504000" />
+      <workItem from="1639638121783" duration="577000" />
+      <workItem from="1639638740786" duration="372000" />
+      <workItem from="1639639124157" duration="5775000" />
+      <workItem from="1639710201584" duration="2804000" />
+      <workItem from="1639744443271" duration="5545000" />
+      <workItem from="1639922177600" duration="38000" />
+      <workItem from="1639922417274" duration="137000" />
+      <workItem from="1639922575427" duration="29000" />
+      <workItem from="1639922636161" duration="28000" />
+      <workItem from="1639922691599" duration="19000" />
+      <workItem from="1639922719504" duration="187000" />
+      <workItem from="1639922919605" duration="1000" />
+      <workItem from="1639922944807" duration="2000" />
+      <workItem from="1639923104057" duration="12000" />
+      <workItem from="1639923217193" duration="6000" />
+      <workItem from="1639923243895" duration="505000" />
+      <workItem from="1639923757375" duration="22000" />
+      <workItem from="1639923787749" duration="378000" />
+      <workItem from="1640056190819" duration="2846000" />
+      <workItem from="1640059053116" duration="1549000" />
+      <workItem from="1640077169570" duration="85000" />
+      <workItem from="1640091349274" duration="2663000" />
+      <workItem from="1640094043672" duration="87000" />
+      <workItem from="1640094184592" duration="444000" />
+      <workItem from="1640135073917" duration="3741000" />
+      <workItem from="1640138949070" duration="4043000" />
+      <workItem from="1640145001726" duration="263000" />
+      <workItem from="1640145290834" duration="67000" />
+      <workItem from="1640146137154" duration="1088000" />
+      <workItem from="1640173231920" duration="7587000" />
+      <workItem from="1640229011193" duration="2196000" />
+      <workItem from="1640574214551" duration="3179000" />
+      <workItem from="1640607003361" duration="1315000" />
+      <workItem from="1640748760464" duration="6046000" />
+      <workItem from="1640919250193" duration="1803000" />
+      <workItem from="1643952543050" duration="12000" />
+      <workItem from="1643952568778" duration="14000" />
+      <workItem from="1644980680206" duration="53000" />
+      <workItem from="1645013198993" duration="1872000" />
+      <workItem from="1645151029776" duration="1049000" />
+      <workItem from="1646811752765" duration="2775000" />
+      <workItem from="1646818861324" duration="925000" />
+      <workItem from="1646819803463" duration="2264000" />
+      <workItem from="1646825913215" duration="629000" />
+      <workItem from="1646927185085" duration="648000" />
+      <workItem from="1646971299908" duration="37000" />
+      <workItem from="1647340846674" duration="216000" />
+      <workItem from="1647685846272" duration="507000" />
+      <workItem from="1648534547046" duration="1141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="415" key="#Custom_Plugin_Repositories" timestamp="1639923675191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="415" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1639923675191" />
+    <state x="640" y="129" key="#HTTP_Proxy" timestamp="1639923369978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="129" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1639923369978" />
+    <state x="552" y="160" key="#Plugins" timestamp="1640094050960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1640094050960" />
+    <state x="801" y="97" key="#Project_Structure" timestamp="1640174988234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="97" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1640174988234" />
+    <state x="26" y="154" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640092446993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="26" y="154" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640092446993" />
+    <state x="458" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1640142208102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="458" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1640142208102" />
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1639922480842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639922480842" />
+    <state x="169" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1640137873830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="169" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640137873830" />
+    <state x="686" y="386" width="548" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1646813689323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="386" width="548" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1646813689323" />
+    <state x="686" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1640137875043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1640137875043" />
+    <state x="1050" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640144733029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1050" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640144733029" />
+    <state x="1249" y="216" key="FileChooserDialogImpl" timestamp="1648534683401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1249" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648534683401" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1646819794174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646819794174" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1646819794174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646819794174" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1646819794173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646819794173" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1646819794174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646819794174" />
+    <state width="1293" height="279" key="GridCell.Tab.1.bottom" timestamp="1640758973357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1640758973357" />
+    <state width="1293" height="279" key="GridCell.Tab.1.center" timestamp="1640758973357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1640758973357" />
+    <state width="1293" height="279" key="GridCell.Tab.1.left" timestamp="1640758973357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1640758973357" />
+    <state width="1293" height="279" key="GridCell.Tab.1.right" timestamp="1640758973357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1640758973357" />
+    <state x="917" y="181" key="Maven.ArtifactSearchDialog" timestamp="1640135614723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="917" y="181" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640135614723" />
+    <state x="91" y="179" width="1278" height="708" key="SettingsEditor" timestamp="1648535094794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="91" y="179" width="1278" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648535094794" />
+    <state x="759" y="297" key="chooseDestDirectoryDialog" timestamp="1640137000612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640137000612" />
+    <state x="563" y="152" width="993" height="680" key="new project wizard" timestamp="1646971334466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="152" width="993" height="680" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1646971334466" />
+    <state x="1034" y="242" width="672" height="677" key="run.anything.popup" timestamp="1640135314272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1034" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1640135314272" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com\turing\b2c\sellergoods\service\ItemCatService.class
+com\turing\b2c\sellergoods\service\GoodsService.class
+com\turing\b2c\sellergoods\service\TypeTemplateService.class
+com\turing\b2c\sellergoods\service\SpecificationService.class
+com\turing\b2c\sellergoods\service\BrandService.class

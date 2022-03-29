@@ -1,0 +1,12 @@
+server:
+  port: 9004
+dubbo:
+  registry:
+    address: zookeeper://192.168.56.88
+    port: 2181
+  application:
+    name: b2c-search-web
+    qos-port: 33333
+spring:
+  thymeleaf:
+    cache: false
