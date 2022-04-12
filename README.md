@@ -1,6 +1,7 @@
 # b2c-parent
 我的项目
 使用项目的一些启动项：
+使用了Zookeeper服务，Redis，Rebbitmq
 开启Zookeeper服务
 cd /root/zookeeper-3.4.13/bin ./zkServer.sh start
 
